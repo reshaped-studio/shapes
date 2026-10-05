@@ -102,4 +102,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on adding foundations, v
 
 ---
 
+Work in this repo uses the shared [Many Hats](https://github.com/reshaped-studio/many-hats) team, included as a submodule. Clone with `--recurse-submodules`. Start at [AGENTS.md](./AGENTS.md).
+
 Part of [Reshaped](https://reshaped.studio)
